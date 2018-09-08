@@ -1,7 +1,7 @@
 #
 **# Roxy Ayaz**
 
-Orlando, FL 32836 **|** (407) 697-7085 **|** RaksheenAyaz@gmail.com **|** linkedin.com/in/raksheen **|** roxyayaz.com
+Orlando, FL 32836 **|** RaksheenAyaz@gmail.com **|** linkedin.com/in/raksheen **|** roxyayaz.com
 
 _ **PROFESSIONAL EXPERIENCE** _
 
