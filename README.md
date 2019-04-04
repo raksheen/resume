@@ -5,13 +5,19 @@ Orlando, FL 32836 **|** RaksheenAyaz@gmail.com **|** linkedin.com/in/raksheen **
 
 _ **PROFESSIONAL EXPERIENCE** _
 
-**Subconscious** | **Frontend Web Developer (part-time)** |Remote _                                                                             _Aug 2018 – Present _ _
+**Walt Disney Company** | **Digital Frontend Developer (part-time)** |Orlando, FL _                                                                             _Oct 2018 – Present _ _
+
+•Develop, code and test highly dynamic online and mobile responsive emails, landing pages and forms
+•Develop standard wireframes, HTML templates and/or modules for banners that can be replicated across multiple campaigns for ef ciency
+•QA test across different mobile and desktop clients, platforms and devices to ensure  nal email versions are optimized and consistent
+
+
+**Subconscious** | **Frontend Web Developer (part-time)** |Remote _                                                                             _Aug 2018 – Oct 2018 _ _
 
 • Converted Zeplin wireframes to React components for custom WordPress site
 
 • Worked closely with the team to enforce style guide and design system
 
-• Integrated Stripe API to develop on-site trusted donation/payment system and seamless user experience
 
 **General Assembly** | **Software Engineer Fellow** |New York, NY _                                                                           _Oct _2017 – May 2018  _
 
